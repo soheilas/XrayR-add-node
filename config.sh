@@ -22,7 +22,7 @@ Log:
 Nodes:
     - PanelType: "NewV2board"
       ApiConfig:
-          ApiHost: "https://cp.folfoping.cloud"
+          ApiHost: "https://yoursite.xxx"
           ApiKey: "ddc22674-f2ce-4e68-b85b-e307c8f6b499"
           NodeID: $NODE_ID
           NodeType: V2ray
